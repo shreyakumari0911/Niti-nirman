@@ -77,35 +77,10 @@ CREATE TABLE public.user_profiles (
 
 ```
 
-2. 
-
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain-352512250/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Namxn27)
-
-
-## Screenshots
-
-[App Screenshot]
-![Screenshot 2025-01-12 195257](https://github.com/user-attachments/assets/6170247b-be0b-4172-8bca-ce24d0b5301a)
-![Screenshot 2025-01-12 195400](https://github.com/user-attachments/assets/3fb6f051-a23d-4b7e-8e87-6785edbc1ce7)
-![Screenshot 2025-01-12 195411](https://github.com/user-attachments/assets/a247f380-44ca-4cdf-881f-d7698e36cdcd)
-![Screenshot 2025-01-12 195515](https://github.com/user-attachments/assets/23b50f31-da1a-43b9-a43e-0089b1d3ce9f)
-
-
-
-
-
-
-
-
-
 ## Support
 
-For support or any queries, email jainnaman2774@gmail.com 
+For support or any queries, email shreyaaasingh8@gmail.com
+
 
 
     
